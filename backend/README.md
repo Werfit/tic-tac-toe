@@ -78,8 +78,8 @@ The API documentation will be available at `/api` when the application is runnin
 
 The application requires the following environment variables:
 
-- `APPLICATION_PORT` - Port number for the application
-- `APPLICATION_CORS` - CORS origin configuration
+- `PORT` - Port number for the application
+- `CORS` - CORS origin configuration
 
 ## Testing
 
